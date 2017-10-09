@@ -59,4 +59,7 @@ a:hover {
 #main {
 	padding: 50px;
 }
+h1 {
 font-size: 8em;
+color: purple;
+}
