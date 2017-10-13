@@ -55,6 +55,9 @@ a {
 a:hover {
 	color: #009ce0;
 }
+h1{
+	font-size: 3em;
+}
 
 #main {
 	padding: 50px;
