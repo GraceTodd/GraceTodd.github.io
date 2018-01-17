@@ -21,9 +21,14 @@ table {
 }
 
 caption, th, td {
-	text-align: left;
+	text-align: center;
 	font-weight: normal;
 	vertical-align: middle;
+}
+
+title {
+	font-size: 4em;
+	color: #E5E8E8  
 }
 
 q, blockquote {
@@ -56,7 +61,7 @@ a:hover {
 	color: #009ce0;
 }
 h1{
-	font-size: 3em;
+	font-size: 4em;
 	color: #E5E8E8  
 }
 
