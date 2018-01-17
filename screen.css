@@ -51,6 +51,8 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 body {
 	font-family: sans-serif;
 	color: #000000;
+	background-image: url("download.jpg");
+    	background-repeat: no-repeat;
 }
 
 a {
