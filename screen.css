@@ -53,9 +53,7 @@ body {
 	font-family: "Courier New";
 	color: #000000;
 	font-size: 24px
-	background-image: url("download.jpg");
-    	background-repeat: no-repeat;
-	background-size: cover;
+	background-color: #FFFFFF
 	text-align: center;
 }
 
@@ -78,5 +76,8 @@ h1{
 
 #main {
 	padding: 50px;
+	background-image: url("download.jpg");
+    	background-repeat: no-repeat;
+	background-size: cover;
 }
 
